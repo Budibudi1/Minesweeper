@@ -1,0 +1,11 @@
+D:\VS repos\Сапёр\Сапёр\bin\Release\Сапёр.exe.config
+D:\VS repos\Сапёр\Сапёр\bin\Release\Сапёр.exe
+D:\VS repos\Сапёр\Сапёр\bin\Release\Сапёр.pdb
+D:\VS repos\Сапёр\Сапёр\obj\Release\Сапёр.csproj.AssemblyReference.cache
+D:\VS repos\Сапёр\Сапёр\obj\Release\Сапёр.csproj.SuggestedBindingRedirects.cache
+D:\VS repos\Сапёр\Сапёр\obj\Release\Minesweeper.Form1.resources
+D:\VS repos\Сапёр\Сапёр\obj\Release\Сапёр.Properties.Resources.resources
+D:\VS repos\Сапёр\Сапёр\obj\Release\Сапёр.csproj.GenerateResource.cache
+D:\VS repos\Сапёр\Сапёр\obj\Release\Сапёр.csproj.CoreCompileInputs.cache
+D:\VS repos\Сапёр\Сапёр\obj\Release\Сапёр.exe
+D:\VS repos\Сапёр\Сапёр\obj\Release\Сапёр.pdb
